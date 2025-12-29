@@ -1,4 +1,4 @@
-# Project Penerimaan Siswa Baru — SMP 1 Muhammadiyah Babat
+# Project Penerimaan Siswa Baru
 
 Deskripsi
 Rancang sistem informasi penerimaan siswa baru untuk SMP 1 Muhammadiyah Babat. Aplikasi ini dibangun menggunakan PHP untuk logika server, Bootstrap untuk styling (CSS), dan jQuery sederhana untuk interaksi sisi-klien.
