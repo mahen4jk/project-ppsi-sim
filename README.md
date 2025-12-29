@@ -97,5 +97,3 @@ Kontak
 Pemilik repo: @mahen4jk
 
 ---
-
-Commit message: "Add/Update README.md — Sistem Penerimaan Siswa Baru"
